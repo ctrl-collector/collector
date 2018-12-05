@@ -1,0 +1,2 @@
+
+COLLECTOR_COLOR = 'cyan'
