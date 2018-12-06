@@ -1,0 +1,5 @@
+
+- name: csv_to_json
+  input: 'test.csv'
+  output: 'test.json'
+
